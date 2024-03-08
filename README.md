@@ -128,7 +128,7 @@ This project is licensed under the [GNU General Public License v3.0](LICENSE).
   
 You can find the source code and more information about this project on GitHub at:  
   
-[<img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github">](https://github.com/qianlkzf/GPUDTW)  
+[<img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github">](https://github.com/qianlikzf/GPUDTW)  
   
 Or visit directly:  
   

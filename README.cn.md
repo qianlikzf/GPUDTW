@@ -119,12 +119,8 @@ if __name__ == '__main__':
 ## GitHub仓库
 您可以在GitHub上找到此项目的源代码和更多信息，地址如下：
 
-<img src="https://img.shields.io/badge/GitHub-仓库-blue?logo=github">
+[<img src="https://img.shields.io/badge/GitHub-Repo-blue?logo=github">](https://github.com/qianlikzf/GPUDTW)  
 
 或者直接访问：
 
 [https://github.com/qianlikzf/GPUDTW](https://github.com/qianlikzf/GPUDTW)
-
-*.py 508
-opencldtw.cl 233
-cudadtw.cu 91
